@@ -1,7 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hand%20me%20TypeScript%20and%20I'll%20code%20up%20a%20digital%20utopia&fontSize=32&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hand%20me%20TypeScript%20and%20I'll%20code%20up%20a%20digital%20utopia&fontSize=32&animation=fadeIn&type=waving&color=gradient&height=160&section=header"></img>
+</div>
+Greetings fellow netizens, I am Shivam - a passionate artisan of the Typescript universe, creating and deconstructing things with aplomb. Welcome to my illustrious Github Profile, where the possibilities of collaboration are endless. Do you have a bold idea that requires a masterful touch? Or perchance, do you seek to commission a work of unparalleled excellence? Whatever your needs may be, rest assured that I am but a mere scroll away. Let us forge ahead and create something truly extraordinary!
+<br></br>
+<img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1500&pause=1000&width=540&lines=Full+Stack+Developer;Robotics+Enthusiast;Typescript+Wizard;Python+Developer;Passionate+Techie;Explorer;"></img>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub History!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sedhha&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedhha&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shivam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sedhha&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sedhha&theme=onedark"/>
+</p>
 
 <br>
 <div align="center">
@@ -9,10 +20,6 @@
 </div>
 
 <br>
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1500&pause=1000&width=540&lines=Full+Stack+Developer;Robotics+Enthusiast;Typescript+Wizard;Python+Developer;Passionate+Techie;Explorer;">
-
 <br>
 
 <!--
@@ -60,15 +67,6 @@
    <img src="https://skillicons.dev/icons?i=arduino,babel,bash,blender,cmake,express,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,graphql,heroku,html,idea,js,jenkins,jest,jquery,matlab,mongodb,mysql,nestjs,netlify,nginx,nodejs,postman,powershell,py,raspberrypi,react,redux,redis,sass,stackoverflow,styledcomponents,supabase,scala,tailwind,ts,vercel,vscode,webpack"/>
 </p>
 <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub History!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sedhha&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedhha&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shivam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sedhha&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sedhha&theme=onedark"/>
-</p>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Visitors Count
 
