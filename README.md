@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hand%20me%20TypeScript%20and%20I'll%20code%20up%20a%20digital%20utopia&fontSize=32&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-<br>
 
-<div style="display:flex;align-items:center; justify-content: center;">
-  <img src="https://media.tenor.com/PX--VHMz9qIAAAAd/spiderman-spiderverse.gif">
+<br>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI1Mzg5YzFhNTQ2MTM0NWY1YTljMTliMDc5YWEyMmEwYmM2MDQ3NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KDtsBk1vqYWbWghFbu/giphy.gif"></img>
 </div>
 
 <br>
@@ -15,7 +15,8 @@
 
 <br>
 
-## 🔗 Let's Connect
+<!--
+<h2> 🔗 Let's Connect</h2>
 
 <div style="display: flex; justify-content:center; column-gap:0.5vw;">
    <a target="_blank">
@@ -47,6 +48,7 @@
   </a>
 
 </div>
+-->
 
 <h2 style="display:flex;align-items:center;column-gap:10px;">
 <img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30px" height="30px"> 
