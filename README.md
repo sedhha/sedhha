@@ -7,6 +7,18 @@
 Greetings fellow netizens, I am Shivam - a passionate artisan of the Typescript universe, creating and deconstructing things with aplomb. Welcome to my illustrious Github Profile, where the possibilities of collaboration are endless. Do you have a bold idea that requires a masterful touch? Or perchance, do you seek to commission a work of unparalleled excellence? Whatever your needs may be, rest assured that I am but a mere scroll away. Let us forge ahead and create something truly extraordinary!
 <br></br>
 
+## 🤝 Let’s Work Together
+
+I’m currently open to:
+
+✅ Remote part-time consulting (LLM tools, agent orchestration, full-stack AI apps)  
+✅ Global hackathon collaborations & async team builds  
+✅ Co-building AI tools for early-stage startups
+
+💌 Drop me a message: [activity.schoolsh2@gmail.com](mailto:activity.schoolsh2@gmail.com)  
+📍 Based in India, working remotely worldwide
+<br></br>
+
 🌍 Open to remote, part-time consulting and global hackathon collaborations  
 💡 Interested in building: agentic tools, LLM workflows, RAG pipelines, multi-modal AI
 <br></br>
