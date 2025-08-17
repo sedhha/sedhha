@@ -6,6 +6,10 @@
 
 Greetings fellow netizens, I am Shivam - a passionate artisan of the Typescript universe, creating and deconstructing things with aplomb. Welcome to my illustrious Github Profile, where the possibilities of collaboration are endless. Do you have a bold idea that requires a masterful touch? Or perchance, do you seek to commission a work of unparalleled excellence? Whatever your needs may be, rest assured that I am but a mere scroll away. Let us forge ahead and create something truly extraordinary!
 <br></br>
+
+🌍 Open to remote, part-time consulting and global hackathon collaborations  
+💡 Interested in building: agentic tools, LLM workflows, RAG pipelines, multi-modal AI
+<br></br>
 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1500&pause=1000&width=540&lines=Full+Stack+Developer;Robotics+Enthusiast;Typescript+Wizard;Python+Developer;Passionate+Techie;Explorer;"></img>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub History!
