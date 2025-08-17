@@ -19,6 +19,12 @@ I’m currently open to:
 📍 Based in India, working remotely worldwide
 <br></br>
 
+🏆 Hackathon-Ready  
+- ETHGlobal? MLH? Buildspace? Recurse? → I’m in.  
+- Let’s team up and build something that turns heads.
+
+<br>br/>
+
 🌍 Open to remote, part-time consulting and global hackathon collaborations  
 💡 Interested in building: agentic tools, LLM workflows, RAG pipelines, multi-modal AI
 <br></br>
