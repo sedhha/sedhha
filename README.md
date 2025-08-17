@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hand%20me%20TypeScript%20and%20I'll%20code%20up%20a%20digital%20utopia&fontSize=32&animation=fadeIn&type=waving&color=gradient&height=160&section=header"></img>
 </div>
+
+<h1>Full-stack AI/ML engineer | Building AI-first products | Open to global consulting / part-time collaborations</h1>
+
 Greetings fellow netizens, I am Shivam - a passionate artisan of the Typescript universe, creating and deconstructing things with aplomb. Welcome to my illustrious Github Profile, where the possibilities of collaboration are endless. Do you have a bold idea that requires a masterful touch? Or perchance, do you seek to commission a work of unparalleled excellence? Whatever your needs may be, rest assured that I am but a mere scroll away. Let us forge ahead and create something truly extraordinary!
 <br></br>
 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1500&pause=1000&width=540&lines=Full+Stack+Developer;Robotics+Enthusiast;Typescript+Wizard;Python+Developer;Passionate+Techie;Explorer;"></img>
