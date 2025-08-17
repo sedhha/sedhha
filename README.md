@@ -93,9 +93,16 @@ I’m currently open to:
 </p>
 <br>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Visitors Count
-
-![Visitor Count](https://profile-counter.glitch.me/sedhha/count.svg)
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0; vertical-align: middle;">
+      <h6 style="margin: 0;">Visitors Count</h6>
+    </td>
+    <td style="border: none; padding: 0 0 0 10px; vertical-align: middle;">
+      <img src="https://gzb-services.onrender.com/open/visitor-badge" width="100px" height="100px">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
