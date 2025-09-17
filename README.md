@@ -32,12 +32,7 @@ I’m currently open to:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub History!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sedhha&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedhha&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shivam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sedhha&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sedhha&theme=onedark"/>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sedhha)](https://git.io/streak-stats)
 
 <br>
 <div align="center">
