@@ -34,9 +34,13 @@ I’m currently open to:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sedhha&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedhha&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shivam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sedhha&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedhha&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>  
   <img src="https://github-profile-trophy.vercel.app/?username=sedhha&theme=onedark"/>
+  <img
+  src="https://shivam-sahil.vercel.app/apis/v2/github/stats?user=sedhha&theme=dark"
+  alt="GitHub Streak for sedhha"
+  width="495" height="195"
+    />
 </p>
 
 <br>
