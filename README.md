@@ -30,19 +30,6 @@ I’m currently open to:
 <br></br>
 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1500&pause=1000&width=540&lines=Full+Stack+Developer;Robotics+Enthusiast;Typescript+Wizard;Python+Developer;Passionate+Techie;Explorer;"></img>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub History!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sedhha&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedhha&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>  
-  <img src="https://github-profile-trophy.vercel.app/?username=sedhha&theme=onedark"/>
-  <img
-  src="https://shivam-sahil.vercel.app/apis/v2/github/stats?user=sedhha&theme=dark"
-  alt="GitHub Streak for sedhha"
-  width="495" height="195"
-    />
-</p>
-
 <br>
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI1Mzg5YzFhNTQ2MTM0NWY1YTljMTliMDc5YWEyMmEwYmM2MDQ3NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KDtsBk1vqYWbWghFbu/giphy.gif"></img>
@@ -96,17 +83,6 @@ I’m currently open to:
    <img src="https://skillicons.dev/icons?i=arduino,babel,bash,blender,cmake,express,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,graphql,heroku,html,idea,js,jenkins,jest,jquery,matlab,mongodb,mysql,nestjs,netlify,nginx,nodejs,postman,powershell,py,raspberrypi,react,redux,redis,sass,stackoverflow,styledcomponents,supabase,scala,tailwind,ts,vercel,vscode,webpack"/>
 </p>
 <br>
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0; vertical-align: middle;">
-      <h6 style="margin: 0;">Visitors Count</h6>
-    </td>
-    <td style="border: none; padding: 0 0 0 10px; vertical-align: middle;">
-      <img src="https://gzb-services.onrender.com/open/visitor-badge" width="100px" height="100px">
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
