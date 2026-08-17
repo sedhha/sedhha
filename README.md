@@ -84,5 +84,5 @@ Longer version on my [site](https://shivam-sahil.vercel.app) and [LinkedIn](http
 </details>
 
 <div align="center">
-<sub>Generated from an evidence-backed fact base · last updated August 2026</sub>
+<sub>Last updated August 2026</sub>
 </div>
